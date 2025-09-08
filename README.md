@@ -5,11 +5,17 @@
 ---
 
 ## 🌟 About Me  
-Hello! I’m Carlos Quito, a CS Master’s student at NEIU with a Bachelor’s in Computer Science and an Associate’s in Computer Information Systems from Wilbur Wright College.  
+- Hello! My name is Carlos Quito, and I'm currently pursuing a Master’s degree in Computer Science at NEIU. 
 
-I’ve built projects in *web and mobile app development, database design, and machine learning**, and gained hands-on experience in robotics programming through NEIU’s STEM Summer Program. I also enjoy tutoring students in programming and problem-solving.  
+- I hold a Bachelor’s in Computer Science at NEIU and an Associate's in Computer Information Systems from Wilbur Wright College.
 
-I'm eager to apply my skills in IT management, software engineering, or business, while I while contributing to innovative projects, and continuing to grow as a professional.
+- I've engaged in various projects focusing on web and mobile app development, database design, and machine learning. 
+
+- I've acquired practical experience in robotics programming through NEIU's STEM Summer Program. 
+
+- I also find great satisfaction in tutoring students in programming and problem-solving.
+
+- I’m excited to leverage my skills in IT management, software engineering, or business, while contributing to innovative projects and continuing my professional growth.
 
 ---
 
