@@ -5,16 +5,27 @@
 ---
 
 ## 🌟 About Me  
-I’m currently pursuing my **Master’s in Computer Science** at **Northeastern Illinois University (NEIU)**, where I also earned my **Bachelor’s degree** in the same field.  
-I’m passionate about creating applications that are intuitive, user-focused, and impactful.  
+Hello! I’m Carlos Quito, a CS Master’s student at NEIU with a Bachelor’s in Computer Science and an Associate’s in Computer Information Systems from Wilbur Wright College.  
+
+I’ve built projects in *web and mobile app development, database design, and machine learning**, and gained hands-on experience in robotics programming through NEIU’s STEM Summer Program. I also enjoy tutoring students in programming and problem-solving.  
+
+I'm eager to apply my skills in IT management, software engineering, or business, while I while contributing to innovative projects, and continuing to grow as a professional.
 
 ---
 
 ## 🛠️ Skills & Tools  
 
-- **Languages:** Python · Kotlin · Swift · Java · C#  
-- **Frameworks:** Jetpack Compose · SwiftUI · ASP.NET · Bootstrap  
-- **Tools & IDEs:** Git · GitHub · Android Studio · Xcode · Visual Studio  
+### Languages & Frameworks  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ---
 
@@ -30,7 +41,8 @@ I’m passionate about creating applications that are intuitive, user-focused, a
 ## 📈 GitHub Stats  
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=crquito&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crquito&layout=compact)  
+![Python](https://img.shields.io/badge/Python-80%25-blue?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-90%25-orange?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
