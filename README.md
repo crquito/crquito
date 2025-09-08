@@ -36,7 +36,7 @@ I’m passionate about creating applications that are intuitive, user-focused, a
 
 ## 🌐 Connect with Me  
 
-- 📍 Chicago, Illinois  
-- 📧 [crquito02@gmail.com](mailto:crquito02@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-quito-5a2859337)  
-- 🐙 [GitHub](https://github.com/crquito)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-quito-5a2859337)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crquito02@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crquito)  
+
